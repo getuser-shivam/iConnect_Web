@@ -1,0 +1,8 @@
+{
+  "name": "iConnect: VPN \u0026 DNS",
+  "description": "A high-performance, modernized VPN and DNS application featuring optimized server lists, low-latency pings, and zero-jank background parsing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
